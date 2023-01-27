@@ -18,12 +18,14 @@ Because this Challenge will require the use of the `Inquirer` package, ensure th
 
 
 ## Installation
-
+Install the inquirer package by entering the command npm i install into your terminal.Then run the program by entering node develop/index.js into the command line, answering each question appropriately.
 
 
 ## Usage
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
+<img width="1701" alt="MyTeam" src="https://user-images.githubusercontent.com/109991922/215007746-bd6653b8-b3d7-45d3-b900-7fbb3bf91c31.png">
+
 
 
 ## License
