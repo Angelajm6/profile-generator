@@ -27,6 +27,13 @@ The following image shows a mock-up of the generated HTML’s appearance and fun
 <img width="1701" alt="MyTeam" src="https://user-images.githubusercontent.com/109991922/215007746-bd6653b8-b3d7-45d3-b900-7fbb3bf91c31.png">
 
 
+Watch the video demo to see how to use this app:
+
+
+[ProfileGenerator-DEMO.webm](https://user-images.githubusercontent.com/109991922/216111967-61e18d4f-b663-4333-b25e-897c40a95055.webm)
+
+
+
 
 ## License
 
